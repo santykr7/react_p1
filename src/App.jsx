@@ -1,5 +1,5 @@
 import "./App.css"
-import RandomApi from "./component/RandomApi"
+import PredictAge from "./component/PredictAge"
 
 
 export default function App() {
@@ -10,7 +10,9 @@ export default function App() {
       <Cartoos /> */}
       {/* <Scorekeeper /> */}
       {/* <Usestate /> */}
-      <RandomApi />
+      {/* <RandomApi /> */}
+      <PredictAge />
+
 
 
 
